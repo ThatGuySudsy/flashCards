@@ -1,7 +1,39 @@
 [
     {
-        "front": "What is the capital of France?",
-        "back": "Paris"
+        "front": "What is the capital of Japan?",
+        "back": "Tokyo"
+    },
+    {
+        "front": "What planet is known as the Red Planet?",
+        "back": "Mars"
+    },
+    {
+        "front": "Who wrote the play 'Romeo and Juliet'?",
+        "back": "William Shakespeare"
+    },
+    {
+        "front": "What is 12 × 8?",
+        "back": "96"
+    },
+    {
+        "front": "What does HTML stand for?",
+        "back": "HyperText Markup Language"
+    },
+    {
+        "front": "Who was the first President of the United States?",
+        "back": "George Washington"
+    },
+    {
+        "front": "What year did World War II end?",
+        "back": "1945"
+    },
+    {
+        "front": "What is the square root of 144?",
+        "back": "12"
+    },
+    {
+        "front": "What gas do plants produce during photosynthesis?",
+        "back": "Oxygen"
     },
     {
         "front": "What does CPU stand for?",
@@ -12,7 +44,39 @@
         "back": "Guido van Rossum"
     },
     {
-        "front": "What is 7 × 8?",
-        "back": "56"
+        "front": "What is the boiling point of water in Celsius?",
+        "back": "100"
+    },
+    {
+        "front": "What is the chemical symbol for Gold?",
+        "back": "Au"
+    },
+    {
+        "front": "In computing, what does 'GUI' stand for?",
+        "back": "Graphical User Interface"
+    },
+    {
+        "front": "What is the largest mammal on Earth?",
+        "back": "Blue Whale"
+    },
+    {
+        "front": "What continent is the Sahara Desert located on?",
+        "back": "Africa"
+    },
+    {
+        "front": "Which language is primarily spoken in Brazil?",
+        "back": "Portuguese"
+    },
+    {
+        "front": "What is 2 to the power of 5?",
+        "back": "32"
+    },
+    {
+        "front": "What year did the Apollo 11 moon landing occur?",
+        "back": "1969"
+    },
+    {
+        "front": "What is the fastest land animal?",
+        "back": "Cheetah"
     }
 ]
