@@ -1,0 +1,18 @@
+[
+    {
+        "front": "What is the capital of France?",
+        "back": "Paris"
+    },
+    {
+        "front": "What does CPU stand for?",
+        "back": "Central Processing Unit"
+    },
+    {
+        "front": "Who created the Python programming language?",
+        "back": "Guido van Rossum"
+    },
+    {
+        "front": "What is 7 × 8?",
+        "back": "56"
+    }
+]
